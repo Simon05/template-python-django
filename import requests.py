@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 # URL of the webpage to scrape
-url = "https://lordicon.com/icons/wired/outline/"
+url = "XXX"
 
 # Configure the Selenium webdriver
 driver_path = "path_to_chromedriver"
